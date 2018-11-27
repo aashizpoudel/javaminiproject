@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="sqlite_jdbc-16753a59a5c-4439fc686eeb14c8" provider="generic" driver="sqlite_jdbc" name="SQLite - musicdb" save-password="true" show-system-objects="true" show-util-objects="true" read-only="false">
+		<connection server="" database="musicdb" url="jdbc:sqlite:musicdb" type="dev"/>
+	</data-source>
+	<data-source id="sqlite_jdbc-16753a77fb9-12c0b05d0dec3db4" provider="generic" driver="sqlite_jdbc" name="SQLite - musicdb 2" save-password="true" show-system-objects="true" show-util-objects="true" read-only="false">
+		<connection server="" database="/home/nexplore/eclipse-workspace/project_x/musicdb" url="jdbc:sqlite:/home/nexplore/eclipse-workspace/project_x/musicdb" type="dev"/>
+	</data-source>
+	<data-source id="sqlite_jdbc-16753a8760f-796bf9194aea3fd9" provider="generic" driver="sqlite_jdbc" name="SQLite - musicdb 3" save-password="true" show-system-objects="true" show-util-objects="true" read-only="false">
+		<connection server="" database="/home/nexplore/eclipse-workspace/project_x/musicdb" url="jdbc:sqlite:/home/nexplore/eclipse-workspace/project_x/musicdb" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>
